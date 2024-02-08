@@ -36,7 +36,7 @@ RBSE Percentage: 52.4%
 ## Certificates
 
 ## Work Experience
-**Yum! India: Fresher**
+**Fresher**
 - Worked in Website Development Project
 
 ## Projects
